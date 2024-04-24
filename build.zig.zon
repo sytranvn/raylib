@@ -1,0 +1,11 @@
+.{
+    .name = "raylib",
+    .version = "0.5.0",
+    .paths = .{
+        "src",
+        "build.zig",
+        "build.zig.zon",
+        "LICENSE",
+        "README.md",
+    },
+}
